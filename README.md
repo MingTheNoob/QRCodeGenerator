@@ -9,7 +9,7 @@
 ___
 &nbsp;
 
-<img align="center" src="https://cdn.mingsutilities.com/qrcode-gen/imgs/cover.png">
+<img align="center" src="https://cdn.mingsutilities.com/utilities/web-tools/qrcode-gen/imgs/cover.png">
 
 &nbsp;
 ___
